@@ -1,0 +1,14 @@
+{
+    "default": {
+        "money": 0,
+        "points": 0
+    },
+    "extra": {
+        "money": 10000,
+        "points": 0
+    },
+    "premium": {
+        "money": 0,
+        "points": 300
+    }
+}
