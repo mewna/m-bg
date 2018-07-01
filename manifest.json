@@ -1,4 +1,4 @@
-{
+[
     "default": {
         "cents": 0,
         "sku": "Background-Pack-default"
@@ -7,4 +7,4 @@
         "cents": 300,
         "sku": "Background-Pack-premium"
     }
-}
+]
