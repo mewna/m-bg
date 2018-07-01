@@ -3,10 +3,6 @@
         "money": 0,
         "cents": 0
     },
-    "extra": {
-        "money": 10000,
-        "cents": 0
-    },
     "premium": {
         "money": 0,
         "cents": 300
