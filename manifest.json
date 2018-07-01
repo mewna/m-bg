@@ -1,9 +1,9 @@
 [
-    "default": {
+    {
         "cents": 0,
         "sku": "Background-Pack-default"
     },
-    "premium": {
+    {
         "cents": 300,
         "sku": "Background-Pack-premium"
     }
