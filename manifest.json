@@ -1,10 +1,12 @@
 {
     "default": {
         "money": 0,
-        "cents": 0
+        "cents": 0,
+        "sku": "Background-Pack-default"
     },
     "premium": {
         "money": 0,
-        "cents": 300
+        "cents": 300,
+        "sku": "Background-Pack-premium"
     }
 }
